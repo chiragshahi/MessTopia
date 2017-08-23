@@ -6,7 +6,7 @@ This project is a management software for Mess Contractors where the students co
 
 ## Motivation
 
-Every month 180 kg of food was wasted in Hostel J's mess in the year 2016-17. This was mainly because the Contractor had no idea about the number of students coming for the next meal and thus to avoid shortage he cooked expecting all of them. Since all of us are Hostel Residents from the beginning of the College, we were also billed in excess for the meals that we didn't ate.
+Every month 180 kg of food was wasted in Hostel J's mess in the year 2016-17. This was mainly because the Contractor had no idea about the number of students coming for the next meal and thus to avoid shortage he cooked expecting all of them. Since all of us are Hostel Residents from the beginning of the College, we were also billed in excess for the meals that we didn't eat.
 
 ## Installation
 
